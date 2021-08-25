@@ -47,16 +47,17 @@ In my free time, I enjoy being with nature, playing basketball and catching as m
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canberkvarli&hide=TeX&layout=compact)
-
-
-<!-- ### 📈 My github stats
-
+<!-- ### 📈 My github stats 
+ -->
 <a href="https://github.com/canberkvarli/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkvarli&layout=compact&theme=material-palenight" />
-</a>
- -->
+</a>  
+
+<br>
+<br>
+
  🎵 **Currently listening to;**  
+
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=canberko560&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
