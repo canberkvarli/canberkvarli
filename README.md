@@ -55,6 +55,6 @@ In my free time, I enjoy being with nature, playing basketball and catching as m
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=canberkvarli&show_icons=true&theme=gotham" alt="canberkvarli" />
 
  -->
- 🎵 Currently listening to;
+ 🎵 Currently listening to;  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=canberko560&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
