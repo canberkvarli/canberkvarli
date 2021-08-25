@@ -9,9 +9,7 @@ Successfully finished the curriculum at App Academy, a highly selective and imme
 In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can. Along with that, I like to read philosophy and contemplate the concepts in life.
 
 - 🔭 I’m currently working on my full stack project [Forest Library](https://forest-library.herokuapp.com/#/)
-- 🌱 I’m currently learning React
-- 📫 How to reach me: [Twitter](https://twitter.com/VARLICanberk), [Instagram](https://www.instagram.com/canisonlive/)
-- 😄 Pronouns: He/Him
+- 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I can fly single engine aircrafts!
 - 💬 ask me about anything, I am happy to help; 
 
@@ -31,11 +29,11 @@ In my free time, I enjoy being with nature, playing basketball and catching as m
 <br />
 
 ### **languages and tools:**  
-
+<!-- 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -55,6 +53,6 @@ In my free time, I enjoy being with nature, playing basketball and catching as m
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=canberkvarli&show_icons=true&theme=gotham" alt="canberkvarli" />
 
  -->
- 🎵 **Currently listening to;  
+ 🎵 **Currently listening to;**  
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=canberko560&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
