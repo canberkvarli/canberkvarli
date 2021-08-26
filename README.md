@@ -8,7 +8,7 @@ Successfully finished the curriculum at App Academy, a highly selective and imme
 
 In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can. Along with that, I like to read philosophy and contemplate the concepts in life.
 
-- 🔭 I’m currently working on my full stack project [Forest Library](https://forest-library.herokuapp.com/#/)
+- 🔭 I’m currently working on the MERN stack project [Forest Library](https://forest-library.herokuapp.com/#/) with my team. 
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I can fly single engine aircrafts!
 - 💬 ask me about anything, I am happy to help; 
