@@ -10,8 +10,6 @@ In my free time, I enjoy being with nature, playing basketball and catching as m
 
 - 🔭 I’m currently working on the MERN stack project [Forest Library](https://forest-library.herokuapp.com/#/) with my team. 
 - 🙂 Pronouns: He/Him
-- ⚡ Fun fact: I can fly single engine aircrafts!
-- 💬 Ask me about anything, I am happy to help; 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
