@@ -6,7 +6,7 @@ My name is Canberk Varli and I'm a software developer with experience building w
 
 Successfully finished the curriculum at App Academy, a highly selective and immersive Software Engineering bootcamp that I spent over 100 hours per week enhancing my skills and exposing myself to a myriad of cutting-edge technologies.
 
-In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can. Along with that, I like to read philosophy and contemplate the concepts in life.
+In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can.
 
 - 🔭 I’m currently working on my full stack project [Sonar](http://appsonar.herokuapp.com/#/).
 - 🙂 Pronouns: He/Him
