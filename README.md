@@ -8,7 +8,7 @@ Successfully finished the curriculum at App Academy, a highly selective and imme
 
 In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can.
 
-- 🔭 I’m currently working on my full stack project [Sonar](http://appsonar.herokuapp.com/#/).
+- 🔭 I’m currently working on Data Structures & Algorithms.
 - 🙂 Pronouns: He/Him
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
