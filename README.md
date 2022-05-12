@@ -20,9 +20,6 @@ In my free time, I enjoy being with nature, playing basketball and catching as m
 <a href="https://www.linkedin.com/in/canberkvarli/">
   <img align="left" alt="Canberk's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/canberko560">
-  <img align="left" alt="Canberk's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br />
 
