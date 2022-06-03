@@ -1,6 +1,6 @@
 
 
-### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 My name is Canberk Varli and I'm a software developer with experience building web applications using JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, MongoDB.
 
