@@ -1,15 +1,12 @@
 
 
-### Hello there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-My name is Canberk Varli and I'm a software developer with experience building web applications using JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, MongoDB.
+My name is Canberk Varli and I'm a software engineer with experience building web applications using JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, MongoDB.
 
-I'm working as a Junior Software Developer at Prevail Legal after successfully finishing the curriculum at App Academy, a highly selective and immersive Software Engineering bootcamp that I spent over 100 hours per week enhancing my skills and exposing myself to a myriad of cutting-edge technologies.
+I'm working as a Junior Software Engineer at Prevail Legal after successfully finishing the curriculum at App Academy, a highly selective and immersive Software Engineering bootcamp that I spent over 100 hours per week enhancing my skills and exposing myself to a myriad of cutting-edge technologies.
 
 In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can.
-
-- 💼 Junior Software Developer at Prevail Legal
-- 🙂 Pronouns: He/Him
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
