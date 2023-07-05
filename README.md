@@ -4,7 +4,7 @@
 
 My name is Canberk Varli and I'm a software engineer with experience building web applications using JavaScript, React/Redux, Ruby on Rails, SQL, Node.js, Mongoose, Express.js, MongoDB.
 
-I'm working as a Junior Software Engineer at Prevail Legal after successfully finishing the curriculum at App Academy, a highly selective and immersive Software Engineering bootcamp that I spent over 100 hours per week enhancing my skills and exposing myself to a myriad of cutting-edge technologies.
+I'm working as a junior Software Engineer at Prevail Legal where we develop cutting edge technologies such as AI speech capture, automated transcript service and various tools to improve efficiency for Law workers and such.
 
 In my free time, I enjoy being with nature, playing basketball and catching as many waves as I can.
 
