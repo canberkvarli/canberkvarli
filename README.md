@@ -47,5 +47,5 @@ In my free time, I enjoy being with nature, staying active and catching as many 
 
  🎵 **Currently listening to;**  
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=canberko560&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=canberko560&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
