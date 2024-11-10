@@ -5,6 +5,8 @@ My name is Canberk Varli and I'm a software engineer with experience building we
 
 In my free time, I enjoy being with nature, staying active and catching as many waves as I can.
 
+Currently working on ERC-20 token project (communityco.in) and a mobile application building with React Native, Expo and Firebase
+
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
 <a href="https://twitter.com/canberkvarli">
