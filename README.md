@@ -1,7 +1,7 @@
 
 ### Hello
 
-My name is Canberk Varli and I'm a software engineer with experience building web applications using JavaScript, Ruby on Rails, Hotwire, React/Redux, SQL, Node.js, Mongoose, Express.js, MongoDB.
+My name is Canberk Varli and I'm a software engineer with experience building web applications using JavaScript, Ruby on Rails, Hotwire, React/Redux, Nextjs, SQL, Node.js, Mongoose, Express.js, MongoDB, Solidity, Hardhat, Alchemy(ERC-20).
 
 In my free time, I enjoy being with nature, staying active and catching as many waves as I can.
 
