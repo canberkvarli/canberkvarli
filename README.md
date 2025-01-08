@@ -1,53 +1,33 @@
-
-### Hello
-
-My name is Canberk Varli and I'm a software engineer with experience building web applications using JavaScript, Ruby on Rails, Hotwire, React/Redux, Nextjs, SQL, Node.js, Mongoose, Express.js, MongoDB, Solidity, Hardhat, Alchemy(ERC-20).
-
-In my free time, I enjoy being with nature, staying active and catching as many waves as I can.
-
-Currently working on ERC-20 token project (communityco.in) and a mobile application building with React Native, Expo and Firebase
-
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
-
-<a href="https://twitter.com/canberkvarli">
-  <img align="left" alt="Canberk's Twitter | Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/canberkvarli/">
-  <img align="left" alt="Canberk's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br />
-
-### **Languages and Tools:**  
-<!-- 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Rails](https://img.shields.io/badge/-Rails-E34F26?style=flat-square&logo=rails&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-
-<!-- ### 📈 My github stats 
- -->
-<a href="https://github.com/canberkvarli/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkvarli&layout=compact&theme=material-palenight" />
-</a>  
-
-<br>
-<br>
-
- 🎵 **Currently listening to;**  
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=canberko560&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
+<table width="100%"> <!-- ROW 1: Intro (Left), Languages & Tools (Right) --> <tr> <!-- Left: Intro --> <td width="50%" valign="top"> <h2>Hello!</h2> <p> My name is <strong>Canberk Varli</strong> and I'm a software engineer. In my free time, I enjoy exploring nature, staying active, and catching waves. </p> <p> Currently, I’m working on: </p> <ul> <li>An <strong>ERC-20 token project</strong> (<a href="https://communityco.in">communityco.in</a>)</li> <li>A <strong>mobile application</strong> built with <strong>React Native</strong>, <strong>Expo</strong>, and <strong>Firebase</strong></li> </ul> <!-- Socials --> <p> <a href="https://x.com/canberkvarli"> <img alt="Canberk on X" style="width: 50px;" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/canberkvarli/"> <img alt="Canberk on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p> </td>
+<!-- Right: Languages & Tools -->
+<td width="50%" valign="top" align="center">
+  <h3>Languages &amp; Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&amp;logo=ruby&amp;logoColor=white" alt="Ruby" />
+    <img src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&amp;logo=ruby-on-rails&amp;logoColor=white" alt="Rails" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&amp;logo=redux&amp;logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+    <br />
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&amp;logo=render&amp;logoColor=white" alt="Render" />
+    <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" alt="Amazon AWS" />
+  </p>
+</td>
+</tr> <!-- ROW 2: Pinned Repositories (Full Width) --> <tr> <td colspan="2" align="center"> <h3>Pinned Repositories</h3> <div> <!-- Example pinned repos using anuraghazra/github-readme-stats --> <a href="https://github.com/canberkvarli/forest-library-v2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=forest-library-v2&theme=material-palenight" alt="forest-library-v2" style="max-width: 100%;" /> </a> <a href="https://github.com/canberkvarli/sonar_v2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=sonar_v2&theme=material-palenight" alt="sonar_v2" style="max-width: 100%;" /> </a> </div> <div> <a href="https://github.com/canberkvarli/cocoV2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=cocoV2&theme=material-palenight" alt="cocoV2" style="max-width: 100%;" /> </a> <a href="https://github.com/canberkvarli/spark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=spark&theme=material-palenight" alt="spark" style="max-width: 100%;" /> </a> </div> </td> </tr> <!-- ROW 3: Spotify (Left), GitHub Stats (Right) --> <tr> <!-- Left: Spotify (smaller) --> <td width="50%" align="center" valign="top"> <h3>Currently Listening To</h3> <a href="https://github.com/kittinan/spotify-github-profile"> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=canberko560&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" style="max-width: 300px;" /> </a> </td>
+<!-- Right: GitHub Stats -->
+<td width="50%" align="center" valign="top">
+  <h3>GitHub Stats</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkvarli&layout=compact&theme=material-palenight"
+      alt="Canberk's Top Languages"
+      style="max-width: 400px;"
+    />
+  </a>
+</td>
+</tr> </table>
