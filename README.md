@@ -12,7 +12,6 @@
       In my free time, I enjoy exploring nature, staying active, and catching waves.
     </p>
     
-  <!-- Socials (centered) -->
   <div align="center" style="margin: 10px 0;">
     <a href="https://x.com/canberkvarli">
       <img alt="Canberk on X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -45,12 +44,14 @@
   </td>
 </tr>
 
-<!-- ROW 2: Pinned Repositories (Left), GitHub Stats (Right) -->
+<!-- ROW 2: Pinned Repositories (Full Width) -->
 <tr>
-  <!-- LEFT: Pinned Repos -->
-  <td width="50%" valign="top" align="center" style="padding: 10px;">
+  <td colspan="2" valign="top" align="center" style="padding: 10px;">
     <h3>Pinned Repositories</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <a href="https://github.com/canberkvarli/fullcircle">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=fullcircle&theme=tokyonight&show_owner=true&card_width=270&cache_seconds=1800&v=1" alt="fullcircle" />
+      </a>
       <a href="https://github.com/canberkvarli/peacy">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=peacy&theme=tokyonight&show_owner=true&card_width=270&cache_seconds=1800&v=1" alt="Peacy" />
       </a>
@@ -64,24 +65,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=spark&theme=tokyonight&show_owner=true&card_width=270&cache_seconds=1800&v=1" alt="spark" />
       </a>
     </div>
-  </td>
-  
-  <!-- RIGHT: GitHub Stats -->
-  <td width="50%" valign="top" align="center" style="padding: 10px;">
-    <h3>GitHub Stats</h3>
-    <p align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberkvarli&layout=compact&theme=tokyonight"
-        alt="Canberk's Top Languages"
-        style="width: 100%; max-width: 380px;"
-      />
-      <br />
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=canberkvarli&show_icons=true&hide=stars&include_all_commits=true&theme=tokyonight"
-        alt="Canberk's Detailed Stats"
-        style="width: 100%; max-width: 380px;"
-      />
-    </p>
   </td>
 </tr>
 
