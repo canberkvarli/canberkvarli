@@ -40,30 +40,6 @@ In my free time, I enjoy exploring nature, staying active, and catching waves.
 </td>
 </tr>
 
-<tr>
-<td colspan="2" valign="top" align="center" style="padding: 10px;">
-<h3>Pinned Repositories</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-<a href="https://github.com/canberkvarli/fullcircle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=fullcircle&theme=tokyonight&show_owner=true&hide_border=true" alt="fullcircle" />
-</a>
-<a href="https://github.com/canberkvarli/peacy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=peacy&theme=tokyonight&show_owner=true&hide_border=true" alt="Peacy" />
-</a>
-<a href="https://github.com/canberkvarli/eunoia">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=eunoia&theme=tokyonight&show_owner=true&hide_border=true" alt="Eunoia" />
-</a>
-<a href="https://github.com/canberkvarli/sonar_v2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=sonar_v2&theme=tokyonight&show_owner=true&hide_border=true" alt="sonar_v2" />
-</a>
-<a href="https://github.com/canberkvarli/spark">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=canberkvarli&repo=spark&theme=tokyonight&show_owner=true&hide_border=true" alt="spark" />
-</a>
-</div>
-</td>
-</tr>
-
 </table>
 
 </div>
-
