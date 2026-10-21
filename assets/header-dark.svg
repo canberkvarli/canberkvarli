@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-label="Canberk Varli. I build AI products end to end.">
+  <style>
+    .mark { font: 500 15px ui-monospace, "SF Mono", Menlo, monospace; fill: #ededed; }
+    .mark .soft { fill: #5c5c5c; }
+    .h { font: 600 52px -apple-system, "Segoe UI", system-ui, sans-serif; letter-spacing: -1.5px; fill: #ededed; }
+    .h2 { fill: #6e6e6e; opacity: 0; animation: rise .8s cubic-bezier(.2,.8,.2,1) .5s forwards; }
+    .sub { font: 400 16px -apple-system, "Segoe UI", system-ui, sans-serif; fill: #9a9a9a; }
+    .dot { fill: #22c55e; animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { .h2 { animation: none; opacity: 1; } .dot { animation: none; } }
+  </style>
+  <text class="mark" x="0" y="28">canberk<tspan class="soft">[.]</tspan>varli</text>
+  <text class="h" x="-2" y="112">I build AI products</text>
+  <text class="h h2" x="-2" y="172">end to end.</text>
+  <circle class="dot" cx="5" cy="218" r="4"/>
+  <text class="sub" x="18" y="223">Software engineer · building ActorRise · Berkeley, CA</text>
+</svg>
