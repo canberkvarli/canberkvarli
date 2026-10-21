@@ -1,45 +1,42 @@
-<div align="center" style="background-color: #2E3440; color: #D8DEE9; padding: 20px; font-family: 'Fira Code', monospace; border-radius: 8px; max-width: 1200px; margin: auto;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:334155&text=Canberk%20Varli&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=full-stack%20engineer%20%C2%B7%20working%20actor&descAlignY=60&descSize=16" width="100%"/>
 
-<table width="100%" style="border-spacing: 0 10px; table-layout: fixed;">
-
-<tr>
-<td width="50%" valign="top" style="vertical-align: top; padding: 10px;">
-<h2 style="margin-top: 0;">Hello!</h2>
-<p>
-My name is <strong>Canberk Varli</strong> and I'm a software engineer. 
-In my free time, I enjoy exploring nature, staying active, and catching waves.
+<p align="center">
+  <a href="https://github.com/canberkvarli">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=94A3B8&center=true&vCenter=true&width=520&lines=I+build+products+I+actually+need.;Next.js+%C2%B7+FastAPI+%C2%B7+Postgres+%C2%B7+AI+search;Currently+shipping+ActorRise" alt="typing intro"/>
+  </a>
 </p>
-<div align="center" style="margin: 10px 0;">
-<a href="https://x.com/canberkvarli">
-<img alt="Canberk on X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/canberkvarli/">
-<img alt="Canberk on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</div>
-</td>
 
-<td width="50%" valign="top" align="center" style="vertical-align: top; padding: 10px;">
-<h3 style="margin-top: 0;">Languages & Tools</h3>
-<div align="center" style="margin: 15px 0;">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" style="margin: 2px;" />
-<br />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" style="margin: 2px;" />
-<br />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" style="margin: 2px;" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" style="margin: 2px;" />
-</div>
-</td>
-</tr>
+<p align="center">
+  <a href="https://www.actorrise.com"><img src="https://img.shields.io/badge/ActorRise-live-0f172a?style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/canberkvarli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/canberkvarli"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://canberkvarli.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square"/></a>
+</p>
 
-</table>
+---
 
-</div>
+### hi, I'm Canberk
+
+Full-stack engineer in Berkeley, CA, and a working actor. I spent almost three years at Prevail Legal AI building transcript search, video sync and permissions for 50+ law firms. Now I build my own products end to end, from the database to the App Store.
+
+### what I'm building
+
+**[ActorRise](https://www.actorrise.com)** · AI search and rehearsal for actors
+Describe the monologue you need in plain English and get real matches from 19,000+ pieces. Then rehearse it with ScenePartner, a voice partner that waits for your cue.
+`Next.js 16` `FastAPI` `Supabase` `pgvector` `Whisper` `Stripe` `Expo`
+
+**[Ghost Light](https://apps.apple.com/us/app/ghost-light-monologues/id6804278673)** · ActorRise on iOS
+The whole monologue library in your pocket, with offline saves for when you're in the wings with no signal.
+`React Native` `Expo` `TypeScript`
+
+### stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,fastapi,rails,ruby,postgres,supabase,redis,docker,aws,vercel&perline=7" />
+</p>
+
+### off the keyboard
+
+Four productions with Inferno Theater in Berkeley, two as lead. Private pilot training in Budapest. Usually somewhere near the ocean.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0f172a,100:334155" width="100%"/>
