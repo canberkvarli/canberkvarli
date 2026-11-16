@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="Canberk Varli. I build AI products end to end. Now building Ghost Light for iOS.">
+  <defs>
+    <radialGradient id="halo" cx="745" cy="96" r="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f3821d" stop-opacity=".42"/>
+      <stop offset=".4" stop-color="#f3821d" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#f3821d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pool" cx="745" cy="232" r="150" gradientUnits="userSpaceOnUse" gradientTransform="translate(0 185) scale(1 .2)">
+      <stop offset="0" stop-color="#f3821d" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#f3821d" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="bloom" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+    <clipPath id="card"><rect width="880" height="260" rx="14"/></clipPath>
+  </defs>
+  <style>
+    .mark { font: 500 14px ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #f3821d; letter-spacing: .5px; }
+    .h { font: 700 48px -apple-system, "Segoe UI", system-ui, Helvetica, Arial, sans-serif; letter-spacing: -1.4px; fill: #fbf5ec; }
+    .h2 { fill: #f3b27a; }
+    .sub { font: 400 16px -apple-system, "Segoe UI", system-ui, Helvetica, Arial, sans-serif; fill: #d9cfc3; }
+    .glow { animation: flicker 4s ease-in-out infinite; }
+    @keyframes flicker { 0%, 100% { opacity: 1; } 50% { opacity: .78; } }
+    @media (prefers-reduced-motion: reduce) { .glow { animation: none; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="880" height="260" fill="#0e0b09"/>
+    <g class="glow">
+      <rect width="880" height="260" fill="url(#halo)"/>
+      <ellipse cx="745" cy="232" rx="150" ry="22" fill="#f3821d" opacity=".22" filter="url(#bloom)"/>
+    </g>
+    <!-- ghost light: bulb, cage, stand -->
+    <g transform="translate(745 0)">
+      <circle cx="0" cy="96" r="26" fill="#ffd08c" opacity=".85" filter="url(#bloom)"/>
+      <path d="M0 62 C19 62 33 76 33 94 C33 107 26 116 20 123 C17 127 16 130 15 133 L-15 133 C-16 130 -17 127 -20 123 C-26 116 -33 107 -33 94 C-33 76 -19 62 0 62 Z" fill="#f3821d"/>
+      <path d="M-8 133 L-8 98 M8 133 L8 98" stroke="#7a2e05" stroke-width="2" fill="none"/>
+      <path d="M-15 98 L-8 91 L0 98 L8 91 L15 98" stroke="#7a2e05" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+      <rect x="-19" y="136" width="38" height="7" rx="3.5" fill="#cb4b00"/>
+      <rect x="-17" y="145" width="34" height="7" rx="3.5" fill="#cb4b00"/>
+      <rect x="-4" y="152" width="8" height="74" fill="#8a3304"/>
+      <rect x="-26" y="224" width="52" height="8" rx="4" fill="#8a3304"/>
+    </g>
+    <text class="mark" x="40" y="48">canberk varli</text>
+    <text class="h" x="38" y="114">I build AI products</text>
+    <text class="h h2" x="38" y="168">end to end.</text>
+    <text class="sub" x="40" y="214">Engineer and working actor · building Ghost Light for iOS · Berkeley, CA</text>
+  </g>
+</svg>
