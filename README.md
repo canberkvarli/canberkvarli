@@ -16,7 +16,7 @@ I'm a full-stack engineer and a working actor. I spent almost three years at Pre
 
 Ghost Light started on the web as ActorRise. I'm folding both into one name now, with the iOS app leading.
 
-| 1,200+ | 19k+ | iOS + web |
+| 2,300+ | 19k+ | iOS + web |
 | :-- | :-- | :-- |
 | signups | monologues indexed | one backend |
 
